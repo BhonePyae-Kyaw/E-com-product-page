@@ -11,32 +11,32 @@ export default function Navbar({buyQ,showCart}) {
             <div className='nav-container'>
                 <div className='nav-bar'>
                     <div className='logo-container'>
-                        <Link to="/home">
+                        <Link to="/">
                             <img src={logo} />
                         </Link>
                     </div>
                     <div className='nav-items'>
-                        <Link to="/home">
+                        <Link to="/">
                             Collections
                         </Link>
                     </div>
                     <div className='nav-items'>
-                        <Link to="/home">
+                        <Link to="/">
                             Men
                         </Link>
                     </div>
                     <div className='nav-items'>
-                        <Link to="/home">
+                        <Link to="/">
                             Women
                         </Link>
                     </div>
                     <div className='nav-items'>
-                        <Link to="/home">
+                        <Link to="/">
                             About
                         </Link>
                     </div>
                     <div className='nav-items'>
-                        <Link to="/home">
+                        <Link to="/">
                             Contact
                         </Link>
                     </div>
