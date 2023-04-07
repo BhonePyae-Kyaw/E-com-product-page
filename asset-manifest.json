@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/E-com-project/static/css/main.01dccf62.css",
-    "main.js": "/E-com-project/static/js/main.c0de7cd4.js",
-    "static/js/787.6962f9d7.chunk.js": "/E-com-project/static/js/787.6962f9d7.chunk.js",
-    "static/media/image-product-2.jpg": "/E-com-project/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
-    "static/media/image-product-1.jpg": "/E-com-project/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
-    "static/media/image-product-3.jpg": "/E-com-project/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
-    "static/media/image-product-4.jpg": "/E-com-project/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
-    "static/media/logo.svg": "/E-com-project/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
-    "static/media/icon-delete.svg": "/E-com-project/static/media/icon-delete.1fd1f1f7d9f8ce5557b44ca3470a18b8.svg",
-    "index.html": "/E-com-project/index.html",
-    "static/media/icon-cart.svg": "/E-com-project/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
-    "static/media/icon-plus.svg": "/E-com-project/static/media/icon-plus.b297868c5f938612f4f099f9f9d73aea.svg",
-    "static/media/icon-close.svg": "/E-com-project/static/media/icon-close.f887a3ef9a8dc0eb3cf48618b9047d84.svg",
-    "static/media/icon-minus.svg": "/E-com-project/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
-    "static/media/icon-previous.svg": "/E-com-project/static/media/icon-previous.80616402c611cc0a6651.svg",
-    "static/media/icon-next.svg": "/E-com-project/static/media/icon-next.9621183a551a9985b4bd.svg",
-    "main.01dccf62.css.map": "/E-com-project/static/css/main.01dccf62.css.map",
-    "main.c0de7cd4.js.map": "/E-com-project/static/js/main.c0de7cd4.js.map",
-    "787.6962f9d7.chunk.js.map": "/E-com-project/static/js/787.6962f9d7.chunk.js.map"
+    "main.css": "/bhonepyaekyaw23.github.io/E-com-project/static/css/main.bb1de94f.css",
+    "main.js": "/bhonepyaekyaw23.github.io/E-com-project/static/js/main.0e2fc8e7.js",
+    "static/js/787.6962f9d7.chunk.js": "/bhonepyaekyaw23.github.io/E-com-project/static/js/787.6962f9d7.chunk.js",
+    "static/media/image-product-2.jpg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "static/media/logo.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "index.html": "/bhonepyaekyaw23.github.io/E-com-project/index.html",
+    "static/media/icon-delete.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/icon-delete.1fd1f1f7d9f8ce5557b44ca3470a18b8.svg",
+    "static/media/icon-cart.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "static/media/icon-plus.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/icon-plus.b297868c5f938612f4f099f9f9d73aea.svg",
+    "static/media/icon-close.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/icon-close.f887a3ef9a8dc0eb3cf48618b9047d84.svg",
+    "static/media/icon-minus.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
+    "static/media/icon-previous.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/icon-previous.80616402c611cc0a6651.svg",
+    "static/media/icon-next.svg": "/bhonepyaekyaw23.github.io/E-com-project/static/media/icon-next.9621183a551a9985b4bd.svg",
+    "main.bb1de94f.css.map": "/bhonepyaekyaw23.github.io/E-com-project/static/css/main.bb1de94f.css.map",
+    "main.0e2fc8e7.js.map": "/bhonepyaekyaw23.github.io/E-com-project/static/js/main.0e2fc8e7.js.map",
+    "787.6962f9d7.chunk.js.map": "/bhonepyaekyaw23.github.io/E-com-project/static/js/787.6962f9d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01dccf62.css",
-    "static/js/main.c0de7cd4.js"
+    "static/css/main.bb1de94f.css",
+    "static/js/main.0e2fc8e7.js"
   ]
 }
