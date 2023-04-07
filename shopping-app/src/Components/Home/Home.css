@@ -1,0 +1,27 @@
+.content{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+}
+.home{
+    justify-content: center;
+    position: relative;
+    height: 100vh;
+}
+.img-container{
+    width: 40%;
+}
+.detail-container{
+    width: 60%;
+}
+section{
+    padding: 50px;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+footer a{
+    text-decoration: none;
+}

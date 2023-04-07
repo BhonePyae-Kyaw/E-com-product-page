@@ -1,0 +1,90 @@
+.zoom-slider .swiper {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.zoom-slider .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: bottom;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zoom-slider .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    background: bottom;
+}
+.zoom-slider .mySwiper {
+    height: 20%;
+    box-sizing: border-box;
+    padding: 10px 0;
+}
+
+.zoom-slider .mySwiper .swiper-slide {
+    width: 25%;
+    height: 100%;
+    opacity: 1;
+}
+
+.zoom-slider .mySwiper .swiper-slide-thumb-active {
+    opacity: 0.95;
+    background-color: aliceblue;
+}
+.modal-backdrop-slider{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 5;
+    opacity: 1;
+}
+.modal-slider{
+    position: absolute;
+    padding: 0px;
+    width: 350px;
+    top: 20px;
+    left: 400px;
+    height: auto;
+    background: bottom;
+    border-radius: 10px;
+}
+.close-btn{
+    width: 15px;
+    align-self: flex-end;
+    cursor: pointer;
+}
+.svg-container{
+    text-align: end;
+}
+.swiper-button-next {
+    background-image: url(../../images/icon-next.svg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+    width: 10px;
+}
+  
+.swiper-button-next::after {
+    display: none;
+}
+.swiper-button-prev {
+    background-image: url(../../images/icon-previous.svg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+    width: 10px;
+}
+  
+.swiper-button-prev::after {
+    display: none;
+}
