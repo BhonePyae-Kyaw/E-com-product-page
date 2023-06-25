@@ -17,6 +17,7 @@ export default function Home() {
     const [buyQ, setBuyQ] = useState(0)
     const [showC, setShowC] = useState(false)
     const [showSlider, setShowSlider] = useState(false)
+
     const showCart = () =>{
         if (showC){
             setShowC(false)
@@ -24,16 +25,20 @@ export default function Home() {
             setShowC(true)
         }
     }
+
     const handleIn = () => {
         setValue(value + 1)
     }
+
     const handleDe = () => {
         setValue(value - 1)
     }
+
     const totalPrice = () =>{
         setBuyQ(value)
         setTotal(value * discounted)
     }
+
     return (
         <div className="home">
             <nav>
@@ -90,7 +95,7 @@ export default function Home() {
             </aside>
             <footer>
                 Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-                Coded by <a href="#">Bhone Pyae Kyaw</a>.
+                Coded by <a href="https://github.com/BhonePyae-Kyaw">Bhone Pyae Kyaw</a>.
             </footer>
         </div>
     )
